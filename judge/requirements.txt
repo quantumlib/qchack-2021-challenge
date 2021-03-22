@@ -1,0 +1,3 @@
+cirq==0.11.0.dev20210321221345
+pytest
+pytest-watch
